@@ -44,7 +44,7 @@ GIF created with Adobe
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
